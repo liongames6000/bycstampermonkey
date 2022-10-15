@@ -3,6 +3,8 @@
 // @version      0.1
 // @description  QR-Code Login to Bycs
 // @author       liongames6000
+// @copyright    2022
+// @updateURL    https://raw.githubusercontent.com/liongames6000/bycstampermonkey/master/bycs_login.js
 // @match        https://idp.mebis.bayern.de/idp/profile/SAML2/POST/SSO*
 // @require      https://unpkg.com/@zxing/library@latest
 // @require      https://code.jquery.com/jquery-3.6.1.slim.min.js
