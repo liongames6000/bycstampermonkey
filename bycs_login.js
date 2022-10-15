@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bycs-Login
-// @version      1.0.0
+// @version      1.0.1
 // @description  QR-Code Login to Bycs
 // @author       liongames6000(Linus Lauer)
 // @license      MIT
